@@ -24,9 +24,7 @@ This repository contains solutions for the **PlatinumRx Data/BI Analyst Technica
   * `02_Clinic_Schema.sql` – Schema for clinic management system
   * `02_Clinic_Queries.sql` – SQL queries for clinic dataset
 
-
-
-  * `Ticket_Analysis.xlsx` – Excel-based analysis (joins, aggregations, time calculations)
+ * `Ticket_Analysis.xlsx` – Excel-based analysis (joins, aggregations, time calculations)
 
 
 ---
